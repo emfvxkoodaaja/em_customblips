@@ -1,3 +1,3 @@
 ## CustomBlips
 
-With this scripts you can add custom blips to your FiveM map with coordinates.
+With this script you can add custom blips to your FiveM map with coordinates.
